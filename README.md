@@ -16,4 +16,4 @@ Isso melhora drasticamente a Experiência do Usuário (UX), pois mantém a anál
 
 (A imagem abaixo mostra a página com o parâmetro "Total COGS" selecionado)
 
-![Página de Análise com Parâmetros de Campo](dashboard_pg5.jpg)
+![Página de Análise com Parâmetros de Campo](dashboard_pg5.png)
